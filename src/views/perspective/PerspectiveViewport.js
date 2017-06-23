@@ -1,7 +1,7 @@
 import React, {Component} from 'react';
 
 
-export default class PerspectiveCamera extends Component {
+export default class PerspectiveViewport extends Component {
 
   constructor(props) {
     super(props);
